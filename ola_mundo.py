@@ -1,2 +1,2 @@
 # Esse é o Clássico
-print('hello word!!!')
+print('hello world!!!')
